@@ -8,5 +8,4 @@
 ![ChidrensBook](Page5.jpg) 
 ![ChidrensBook](Page6.jpg) 
 ![ChidrensBook](Page7.jpg) 
-![ChidrensBook](Backcover.jpg) 
 ![ChidrensBook](XDedication.jpg) 
