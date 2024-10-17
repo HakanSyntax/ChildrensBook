@@ -1,4 +1,5 @@
 ![ChidrensBook](Cover.jpg) 
+![ChidrensBook](Inhaltsverzeichnis.jpg) 
 ![ChidrensBook](Page1.jpg) 
 ![ChidrensBook](Page2.jpg) 
 ![ChidrensBook](Page3.jpg) 
@@ -6,3 +7,4 @@
 ![ChidrensBook](Page5.jpg) 
 ![ChidrensBook](Page6.jpg) 
 ![ChidrensBook](Page7.jpg) 
+![ChidrensBook](Backcover.jpg) 
